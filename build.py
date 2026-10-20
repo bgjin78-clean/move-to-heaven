@@ -26,7 +26,7 @@ PHONE_DISPLAY = "010-4026-0892"
 PHONE_TEL = "01040260892"
 PHONE_INTL = "+82-10-4026-0892"
 # 배포 주소. 비어 있으면 canonical과 절대경로 sitemap은 만들지 않습니다.
-SITE_URL = "https://move-to-heaven.vercel.app"
+SITE_URL = "https://heaven.allbarunclean.com"
 
 RAW = {
     "hero": "raw-hero.jpg",

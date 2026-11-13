@@ -426,7 +426,7 @@ def footer(from_file: Path) -> str:
 <p class="site-footer">{E(BRAND)} · 남양주 · 의정부 · 구리 · 상담 {PHONE_DISPLAY}<br>견적은 현장 범위에 따라 달라집니다. 폐기물은 품목별로 나눠 반출하며 무단으로 버리지 않습니다.</p>
 </main>
 <div class="callbar"><a href="tel:{PHONE_TEL}">전화 상담 {PHONE_DISPLAY}</a></div>
-<script src="{E(script)}"></script>
+<script src="{E(script)}?v=2"></script>
 </body>
 </html>
 """
